@@ -5,4 +5,5 @@ _Keep in mind the website is not ready to be published yet. Once I release the f
 ### Website Documentation
 
 **July 11th, 2026** - Official website begins development. Status update published in-project alognside first tasks and estimated dastes.  
-**July 12th, 2026** - Homepage & About section sufficiently developed. Will go under changes in the future, but this current version will be in the first stable build.
+**July 12th, 2026** - Homepage & About section sufficiently developed. Will go under changes in the future, but this current version will be in the first stable build.   
+**July 14th, 2026** - Website fully developed and completed for release. First stable build will be published and set under a domain either tomorrow or later this week.
